@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yash Dhruwanshi</h1>
-<h3 align="center">Aspiring Full Stack Developer</h3>
+<h3 align="center">I am in my final year at Rashtrasant Tukadoji Maharaj Nagpur University, with a solid foundation in Frontend and Backend Development. Additionally, I am actively enhancing my skills in Java programming and Data Structures & Algorithms (DSA). My passion for software development drives my eagerness to gain hands-on experience in a dynamic and innovative environment.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c-ninjaz&label=Profile%20views&color=0e75b6&style=flat" alt="c-ninjaz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=c-ninjaz" alt="c-ninjaz" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/x.com/yash_d_8" target="blank"><img src="https://img.shields.io/twitter/follow/x.com/yash_d_8?logo=twitter&style=for-the-badge" alt="x.com/yash_d_8" /></a> </p>
+<p align="left"> <a href="https://x.com/yash_d_8" target="blank"><img src="https://img.shields.io/twitter/follow/x.com/yash_d_8?logo=twitter&style=for-the-badge" alt="x.com/yash_d_8" /></a> </p>
 
 - 📫 How to reach me **yashdhruwanshi21@gmail.com**
 
