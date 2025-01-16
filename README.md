@@ -7,6 +7,20 @@
 <a align="left" href="https://www.naukri.com/code360/profile/eb1ff849-af9f-47e7-b4b1-2ceaa09fc3ee"><img width="100" style="filter(brightness(200%))" src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="HTML" title="Code360 Coding Ninjas"/></a>
 </p>
 
+### 🏆 Coding Ninjas Badges
+<div align="center">
+  <a href="https://www.naukri.com/code360/profile/31b0ca78-a0bb-454d-8d26-855e38a00fab">
+    <img width="100" src="https://files.codingninjas.in/ace-coder-1-26995.svg" alt="hofbadge" title="Hacktoberfest"/>
+    <img width="100" src="https://files.codingninjas.in/code-crusader-4-26994.svg" alt="hofbadge" title="Hacktoberfest"/>
+    <img width="100" src="https://files.codingninjas.in/consistent-coder-3-26974.svg" alt="hofbadge" title="Hacktoberfest"/>
+    <img width="100" src="https://files.codingninjas.in/deadline-dynamo-4-27021.svg" alt="hofbadge" title="Hacktoberfest"/>
+    <img width="100" src="https://files.codingninjas.in/diligent-developer-4-26990.svg" alt="hofbadge" title="Hacktoberfest"/>
+    <img width="100" src="https://files.codingninjas.in/leaderboard-legend-2-27001.svg" alt="hofbadge" title="Hacktoberfest"/>
+    <img width="100" src="https://files.codingninjas.in/legendary-1-27005.svg" alt="hofbadge" title="Hacktoberfest"/>
+    <img width="100" src="https://files.codingninjas.in/streak-superstar-5-26986.svg" alt="hofbadge" title="Hacktoberfest"/>
+    <img width="100" src="https://files.codingninjas.in/samurai-30760.svg" alt="hofbadge" title="Hacktoberfest"/>
+    <img width="100" src="https://files.codingninjas.in/sensei-30761.svg" alt="hofbadge" title="Hacktoberfest"/></a>
+</div>
 
 ## 🌐 Socials:
 <p align="left">
