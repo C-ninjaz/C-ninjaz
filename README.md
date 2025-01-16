@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Yash Dhruwanshi</h1>
+<h1 align="center">Hi,👋 I'm Yash Dhruwanshi</h1>
 
 ## ⚡ About Me
 <h3 align="center">I am in my final year at Rashtrasant Tukadoji Maharaj Nagpur University, with a solid foundation in Frontend and Backend Development. Additionally, I am actively enhancing my skills in Java programming and Data Structures & Algorithms (DSA). My passion for software development drives my eagerness to gain hands-on experience in a dynamic and innovative environment. </h3>
-<img align="center" src="https://github.com/C-ninjaz/Portfolio/blob/477122f08d836bc5ab7ebf21ae5da42bc02f7a87/Assets/Images/Yash.png" width="150px" height="250px">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c-ninjaz&label=Profile%20views&color=0e75b6&style=flat" alt="c-ninjaz" /> </p>
 
@@ -12,7 +10,7 @@
 - 📫 How to reach me **yashdhruwanshi21@gmail.com**
 -  📫 How to reach me **+91-8530384961**
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Socials:
 <p align="left">
 <a href="https://twitter.com/x.com/yash_d_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x.com/yash_d_8" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/yash-dhruwanshi-12b960224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/yash-dhruwanshi-12b960224/" height="30" width="40" /></a>
