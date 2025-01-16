@@ -23,7 +23,7 @@
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="netlify" width="40" height="40"/> </a> </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=C-ninjaz&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)>
+![](https://github-profile-trophy.vercel.app/?username=C-ninjaz&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=C-ninjaz&show_icons=true&locale=en" alt="c-ninjaz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=C-ninjaz&" alt="c-ninjaz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=C-ninjaz&" alt="C-ninjaz" /></p>
