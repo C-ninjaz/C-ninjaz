@@ -1,5 +1,5 @@
-<h1 align="center">Hi,👋 I'm Yash Dhruwanshi</h1>
-
+<h1 align="center">Hello, I'm Yash Dhruwanshi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> 
+<img src="https://github.com/C-ninjaz/Portfolio/blob/477122f08d836bc5ab7ebf21ae5da42bc02f7a87/Assets/Images/Yash.png" width="400px" height="250px">
 ## ⚡ About Me
 <h3 align="center">I am in my final year at Rashtrasant Tukadoji Maharaj Nagpur University, with a solid foundation in Frontend and Backend Development. Additionally, I am actively enhancing my skills in Java programming and Data Structures & Algorithms (DSA). My passion for software development drives my eagerness to gain hands-on experience in a dynamic and innovative environment. </h3>
 
