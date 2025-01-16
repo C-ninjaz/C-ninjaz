@@ -4,6 +4,7 @@
 <h3 align="center">I am in my final year at Rashtrasant Tukadoji Maharaj Nagpur University, with a solid Frontend and Backend Development foundation. Additionally, I am actively enhancing my skills in Java programming and Data Structures & Algorithms (DSA). My passion for software development drives my eagerness to gain hands-on experience in a dynamic and innovative environment. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c-ninjaz&label=Profile%20views&color=0e75b6&style=flat" alt="c-ninjaz" /> </p>
+<a href="https://www.naukri.com/code360/profile/31b0ca78-a0bb-454d-8d26-855e38a00fab"><img width="100" style="filter(brightness(200%))" src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="HTML" title="HTML"/></a>
 
 ## 🌐 Socials:
 <p align="left">
