@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=c-ninjaz" alt="c-ninjaz"></a> </p>
 
-<p align="left"> <a href="https://x.com/yash_d_8" target="blank"><img src="https://img.shields.io/twitter/follow/x.com/yash_d_8?logo=twitter&style=for-the-badge" alt="x.com/yash_d_8"></a> </p>
-
 - 📫 How to reach me **yashdhruwanshi21@gmail.com**
+-  📫 How to reach me **+91-8530384961**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
