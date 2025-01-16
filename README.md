@@ -65,16 +65,6 @@
        Studio Code"/>
     </div>
 
-
-    <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=95347239" target="_blank" style="display: block" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?    
-               user_id=95347239&image_size=auto&color_scheme=dark" width="771" height="auto">
-        <img alt="Dashboard stats of @itssahilhere" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png? 
-               user_id=95347239&image_size=auto&color_scheme=light" width="771" height="auto">
-      </picture>
-    </a>
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=C-ninjaz&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
