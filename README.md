@@ -27,6 +27,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=c-ninjaz&show_icons=true&locale=en&layout=compact" alt="c-ninjaz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c-ninjaz&show_icons=true&locale=en" alt="c-ninjaz" /></p>
